@@ -50,4 +50,6 @@
 		 		System.out.println("Static method can inherit but not static variable");
 		 		System.out.println(i);
 		 	}
+		 	
+		 	// 24/May/2021
 	}
